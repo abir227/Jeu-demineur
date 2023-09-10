@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1653640170 source:c:\users\dell\desktop\ensi\2emesem\poo\machine\jeu démineur\src\case.cpp
+	"Case.h"
+
+1653696099 c:\users\dell\desktop\ensi\2emesem\poo\machine\jeu démineur\include\case.h
+	"iostream"
+	<string>
+
+1653692687 source:c:\users\dell\desktop\ensi\2emesem\poo\machine\jeu démineur\src\grille.cpp
+	"Grille.h"
+	<iostream>
+
+1653696106 c:\users\dell\desktop\ensi\2emesem\poo\machine\jeu démineur\include\grille.h
+	"Case.h"
+
+1653695768 source:c:\users\dell\desktop\ensi\2emesem\poo\machine\jeu démineur\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	<string>
+	"Jeu.h"
+	"Case.h"
+
+1653696097 c:\users\dell\desktop\ensi\2emesem\poo\machine\jeu démineur\include\jeu.h
+	"Case.h"
+	"Grille.h"
+	<iostream>
+
+1653742196 source:c:\users\dell\desktop\ensi\2emesem\poo\machine\jeu démineur\src\jeu.cpp
+	"Jeu.h"
+	"Grille.h"
+	<fstream>
+	<string>
+
